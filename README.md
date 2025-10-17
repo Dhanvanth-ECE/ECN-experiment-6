@@ -1,4 +1,4 @@
-EXP 5 : VERIFICATION OF MAXIMUM POWER TRANSFER THEOREM
+6 : VERIFICATION OF MAXIMUM POWER TRANSFER THEOREM
 AIM:
 
 To measure the power absorbed in a load and to verify that the power absorbed in a load is maximum only when load resistance is equal to the source resistance.
